@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">primerApp</string>
+    <string name="titulo1">TITULO PRINCIPAL</string>
+    <string name="text1">Hola Mundo!! Bienvenidos a mi primera aplicación...</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
